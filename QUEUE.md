@@ -4,6 +4,10 @@ Say we have a restaurant. People start coming in and waiting in a queue. We want
 
 The best way we can do this, is by using a Queue. A queue will always return the first things added (FIFO, first-in first-out) to the queue.
 
+## Terminology
+- Front: person who was added to the line first
+- Back: person who was added to the line last (we don't usually care about this)
+
 ### Visualization
 
 Restuarant: John <- Mary <- Jane
